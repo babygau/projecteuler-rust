@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SolverError",""]],"macro":[["problem!",""]],"struct":[["Solver",""],["SolverResult",""]]});
